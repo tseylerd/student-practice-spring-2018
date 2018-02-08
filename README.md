@@ -1,1 +1,1 @@
-# student-practice-spring-2018
+# Student practice (spring 2018)
